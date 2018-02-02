@@ -1,0 +1,7 @@
+.jumbotron, .article-dest, .panel-body{
+  background-color: rgb(206, 227, 248);
+  /* border-color: rgb(206, 227, 248); */
+}
+.btn {
+  background-color: rgb(255, 69, 0);
+}
